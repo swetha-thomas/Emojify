@@ -12,9 +12,11 @@ With advances in AI and deep learning, much progress has been made in the field 
 
 - To further improve accuracy, following techniques were used:
 
-a) Image data generation - preprocessing technique to augment image data.
-b) Batch normalization - to reduce the risk of vanishing gradients
-c) Dropout - as a form of regularization
+      a) Image data generation - preprocessing technique to augment image data
+
+      b) Batch normalization - to reduce the risk of vanishing gradients
+
+      c) Dropout - as a form of regularization
 
 ## Results
 
